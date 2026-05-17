@@ -1,5 +1,10 @@
 # GitHub 说人话 🤖
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Stars](https://img.shields.io/github/stars/nonlinearHuman/github-to-human?style=social)
+![Forks](https://img.shields.io/github/forks/nonlinearHuman/github-to-human?style=social)
+
 > 把 GitHub 项目翻译成**普通人能直接上手的操作指南**
 
 看不懂技术文档？不知道一个项目适不适合你？
